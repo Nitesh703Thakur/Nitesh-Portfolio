@@ -30,7 +30,7 @@ const projects = [
 const skills = [
   { name: "Frontend Development", icon: Globe },
   { name: "React / Next.js", icon: Code2 },
-  { name: "Backend Development · Python / Django", icon: Database },
+  { name: "Backend Development · Python / Django / Node.js", icon: Database },
   { name: "Responsive Design", icon: Smartphone },
   { name: "UI/UX Designer Intern", icon: Palette, description: "Codeplus Pvt. Ltd." },
 ];
